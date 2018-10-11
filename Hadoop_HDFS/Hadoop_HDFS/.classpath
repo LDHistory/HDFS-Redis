@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="conf"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-archive-logs-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-archive-logs-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-archives-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-archives-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-datajoin-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-datajoin-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-distcp-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-distcp-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-extras-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-extras-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-gridmix-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-gridmix-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-rumen-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-rumen-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-sls-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-sls-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-streaming-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/tools/sources/hadoop-streaming-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-app-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-app-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-common-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-common-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-core-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-core-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-2.8.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-examples-2.8.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/hadoop/hadoop-2.8.4/share/hadoop/mapreduce/sources/hadoop-mapreduce-examples-2.8.4-test-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
